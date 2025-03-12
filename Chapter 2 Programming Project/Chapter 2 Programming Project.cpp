@@ -16,10 +16,10 @@ int main() {
 	double risein10years = riserate * 10;
 	//Calculates the rise of the ocean in 10 years using multiplication
 
-	cout << "In 5 years the ocean rise will be " << risein5years << " millimeters.\n" ;
+	cout << "In 5 years the ocean rise will be " << risein5years << " milimeters.\n" ;
 
-	cout << "In 7 years the ocean rise will be " << risein7years << " millimeters.\n";
+	cout << "In 7 years the ocean rise will be " << risein7years << " milimeters.\n";
 
-	cout << "In 10 years the ocean rise will be " << risein10years << " millimeters.\n";
+	cout << "In 10 years the ocean rise will be " << risein10years << " milimeters.\n";
 
 }
